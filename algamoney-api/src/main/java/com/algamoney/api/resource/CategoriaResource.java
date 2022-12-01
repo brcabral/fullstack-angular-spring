@@ -1,4 +1,4 @@
-package com.algamoney.api;
+package com.algamoney.api.resource;
 
 import java.net.URI;
 import java.util.List;
